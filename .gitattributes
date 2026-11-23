@@ -1,0 +1,2 @@
+# Pastreaza scriptul PowerShell exact cum este (CRLF, ASCII)
+*.ps1 -text
